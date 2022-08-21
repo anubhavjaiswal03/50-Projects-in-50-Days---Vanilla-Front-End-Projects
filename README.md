@@ -7,4 +7,4 @@ You can `gitclone` them individually or `gitclone` this master repoitory.
 
 Get the [boiler platecode](https://github.com/anubhavjaiswal03/_projects_starter_).
 
-- [Expanding Cards](https://github.com/anubhavjaiswal03/Expanding-Cards)
+1. [Expanding Cards](https://github.com/anubhavjaiswal03/Expanding-Cards)
