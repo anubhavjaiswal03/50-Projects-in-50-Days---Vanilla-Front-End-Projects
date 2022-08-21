@@ -1,3 +1,6 @@
 [submodule "_projects_starter_"]
 	path = _projects_starter_
 	url = https://github.com/anubhavjaiswal03/_projects_starter_
+[submodule "Expanding-Cards"]
+	path = Expanding-Cards
+	url = https://github.com/anubhavjaiswal03/Expanding-Cards
