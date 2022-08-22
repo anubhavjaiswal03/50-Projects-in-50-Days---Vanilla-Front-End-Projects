@@ -7,3 +7,6 @@
 [submodule "Progress-Steps"]
 	path = Progress-Steps
 	url = https://github.com/anubhavjaiswal03/Progress-Steps
+[submodule "Rotating-Navigation"]
+	path = Rotating-Navigation
+	url = https://github.com/anubhavjaiswal03/Rotating-Navigation
