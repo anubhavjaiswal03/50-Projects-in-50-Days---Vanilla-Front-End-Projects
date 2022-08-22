@@ -4,3 +4,6 @@
 [submodule "Expanding-Cards"]
 	path = Expanding-Cards
 	url = https://github.com/anubhavjaiswal03/Expanding-Cards
+[submodule "Progress-Steps"]
+	path = Progress-Steps
+	url = https://github.com/anubhavjaiswal03/Progress-Steps
