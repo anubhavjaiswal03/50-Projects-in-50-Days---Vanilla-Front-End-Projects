@@ -12,3 +12,4 @@ You can `gitclone` them individually or `gitclone` this master repository.
 3. [Rotating Navigation](https://github.com/anubhavjaiswal03/Rotating-Navigation)
 4. [Hidden Search Widget](https://github.com/anubhavjaiswal03/Hidden-Search-Widget)
 5. [Blurry Loading](https://github.com/anubhavjaiswal03/Blurry-Loading)
+6. [Scroll Animation](https://github.com/anubhavjaiswal03/Scroll-Animation)
