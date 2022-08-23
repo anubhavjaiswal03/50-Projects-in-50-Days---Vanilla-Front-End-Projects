@@ -13,3 +13,6 @@
 [submodule "Blurry-Loading"]
 	path = Blurry-Loading
 	url = https://github.com/anubhavjaiswal03/Blurry-Loading
+[submodule "Vanilla-Frontend-Project-Boilerplate"]
+	path = Vanilla-Frontend-Project-Boilerplate
+	url = https://github.com/anubhavjaiswal03/Vanilla-Frontend-Project-Boilerplate
