@@ -10,3 +10,6 @@
 [submodule "Rotating-Navigation"]
 	path = Rotating-Navigation
 	url = https://github.com/anubhavjaiswal03/Rotating-Navigation
+[submodule "Hidden-Search-Widget"]
+	path = Hidden-Search-Widget
+	url = https://github.com/anubhavjaiswal03/Hidden-Search-Widget
