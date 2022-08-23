@@ -13,3 +13,4 @@ You can `gitclone` them individually or `gitclone` this master repository.
 4. [Hidden Search Widget](https://github.com/anubhavjaiswal03/Hidden-Search-Widget)
 5. [Blurry Loading](https://github.com/anubhavjaiswal03/Blurry-Loading)
 6. [Scroll Animation](https://github.com/anubhavjaiswal03/Scroll-Animation)
+7. [Split Landing Page](https://github.com/anubhavjaiswal03/Split-Landing-Page)
