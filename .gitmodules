@@ -19,3 +19,6 @@
 [submodule "Scroll-Animation"]
 	path = Scroll-Animation
 	url = https://github.com/anubhavjaiswal03/Scroll-Animation
+[submodule "Split-Landing-Page"]
+	path = Split-Landing-Page
+	url = https://github.com/anubhavjaiswal03/Split-Landing-Page
