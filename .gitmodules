@@ -13,3 +13,6 @@
 [submodule "Hidden-Search-Widget"]
 	path = Hidden-Search-Widget
 	url = https://github.com/anubhavjaiswal03/Hidden-Search-Widget
+[submodule "Blurry-Loading"]
+	path = Blurry-Loading
+	url = https://github.com/anubhavjaiswal03/Blurry-Loading
