@@ -3,7 +3,7 @@
 This is a Repository for 50 Frontend Vanilla(html, CSS, Javascript) Projects.
 
 Each project defined here is a Git SubModule.
-You can `gitclone` them individually or `gitclone` this master repoitory.
+You can `gitclone` them individually or `gitclone` this master repository.
 
 :bulb: **Note** All projects use this [boilerplate code](https://github.com/anubhavjaiswal03/_projects_starter_).
 
