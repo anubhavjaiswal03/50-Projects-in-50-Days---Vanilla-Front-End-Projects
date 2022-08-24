@@ -25,3 +25,6 @@
 [submodule "Form-Wave-Animation"]
 	path = Form-Wave-Animation
 	url = https://github.com/anubhavjaiswal03/Form-Wave-Animation
+[submodule "Sound-Board-Project"]
+	path = Sound-Board-Project
+	url = https://github.com/anubhavjaiswal03/Sound-Board-Project
