@@ -14,3 +14,4 @@ You can `gitclone` them individually or `gitclone` this master repository.
 5. [Blurry Loading](https://github.com/anubhavjaiswal03/Blurry-Loading)
 6. [Scroll Animation](https://github.com/anubhavjaiswal03/Scroll-Animation)
 7. [Split Landing Page](https://github.com/anubhavjaiswal03/Split-Landing-Page)
+8. [Form Wave Amimation](https://github.com/anubhavjaiswal03/Form-Wave-Animation)
