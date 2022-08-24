@@ -28,3 +28,6 @@
 [submodule "Sound-Board-Project"]
 	path = Sound-Board-Project
 	url = https://github.com/anubhavjaiswal03/Sound-Board-Project
+[submodule "Dad-Jokes"]
+	path = Dad-Jokes
+	url = https://github.com/anubhavjaiswal03/Dad-Jokes
