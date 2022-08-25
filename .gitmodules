@@ -31,3 +31,6 @@
 [submodule "Dad-Jokes"]
 	path = Dad-Jokes
 	url = https://github.com/anubhavjaiswal03/Dad-Jokes
+[submodule "Event-KeyCodes"]
+	path = Event-KeyCodes
+	url = https://github.com/anubhavjaiswal03/Event-KeyCodes
