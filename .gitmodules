@@ -34,3 +34,6 @@
 [submodule "Event-KeyCodes"]
 	path = Event-KeyCodes
 	url = https://github.com/anubhavjaiswal03/Event-KeyCodes
+[submodule "FAQ-Collapse"]
+	path = FAQ-Collapse
+	url = https://github.com/anubhavjaiswal03/FAQ-Collapse
