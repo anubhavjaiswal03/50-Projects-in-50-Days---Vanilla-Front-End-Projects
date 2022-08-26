@@ -58,3 +58,6 @@
 [submodule "Theme-Clock"]
 	path = Theme-Clock
 	url = https://github.com/anubhavjaiswal03/Theme-Clock
+[submodule "Button-Ripple-Effect"]
+	path = Button-Ripple-Effect
+	url = https://github.com/anubhavjaiswal03/Button-Ripple-Effect
