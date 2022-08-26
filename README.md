@@ -21,3 +21,4 @@ You can `gitclone` them individually or `gitclone` this master repository.
 12. [FAQ Collapse](https://github.com/anubhavjaiswal03/FAQ-Collapse)
 13. [Random Choice Picker](https://github.com/anubhavjaiswal03/Random-Choice-Picker)
 14. [Animated-Navigation](https://github.com/anubhavjaiswal03/Animated-Navigation)
+15. [Incrementing Counter](https://github.com/anubhavjaiswal03/Incrementing-Counter)
