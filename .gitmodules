@@ -46,3 +46,6 @@
 [submodule "Incrementing-Counter"]
 	path = Incrementing-Counter
 	url = https://github.com/anubhavjaiswal03/Incrementing-Counter
+[submodule "Drink-Water"]
+	path = Drink-Water
+	url = https://github.com/anubhavjaiswal03/Drink-Water
