@@ -49,3 +49,6 @@
 [submodule "Drink-Water"]
 	path = Drink-Water
 	url = https://github.com/anubhavjaiswal03/Drink-Water
+[submodule "Movie-App"]
+	path = Movie-App
+	url = https://github.com/anubhavjaiswal03/Movie-App
