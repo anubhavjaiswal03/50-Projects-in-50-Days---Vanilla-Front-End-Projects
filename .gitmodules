@@ -40,3 +40,6 @@
 [submodule "Random-Choice-Picker"]
 	path = Random-Choice-Picker
 	url = https://github.com/anubhavjaiswal03/Random-Choice-Picker
+[submodule "Animated-Navigation"]
+	path = Animated-Navigation
+	url = https://github.com/anubhavjaiswal03/Animated-Navigation
