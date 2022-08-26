@@ -52,3 +52,6 @@
 [submodule "Movie-App"]
 	path = Movie-App
 	url = https://github.com/anubhavjaiswal03/Movie-App
+[submodule "Background-Slider"]
+	path = Background-Slider
+	url = https://github.com/anubhavjaiswal03/Background-Slider
