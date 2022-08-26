@@ -55,3 +55,6 @@
 [submodule "Background-Slider"]
 	path = Background-Slider
 	url = https://github.com/anubhavjaiswal03/Background-Slider
+[submodule "Theme-Clock"]
+	path = Theme-Clock
+	url = https://github.com/anubhavjaiswal03/Theme-Clock
