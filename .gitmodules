@@ -43,3 +43,6 @@
 [submodule "Animated-Navigation"]
 	path = Animated-Navigation
 	url = https://github.com/anubhavjaiswal03/Animated-Navigation
+[submodule "Incrementing-Counter"]
+	path = Incrementing-Counter
+	url = https://github.com/anubhavjaiswal03/Incrementing-Counter
