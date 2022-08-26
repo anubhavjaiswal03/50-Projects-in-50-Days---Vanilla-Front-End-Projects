@@ -37,3 +37,6 @@
 [submodule "FAQ-Collapse"]
 	path = FAQ-Collapse
 	url = https://github.com/anubhavjaiswal03/FAQ-Collapse
+[submodule "Random-Choice-Picker"]
+	path = Random-Choice-Picker
+	url = https://github.com/anubhavjaiswal03/Random-Choice-Picker
