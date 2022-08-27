@@ -64,3 +64,6 @@
 [submodule "Drag-N-Drop"]
 	path = Drag-N-Drop
 	url = https://github.com/anubhavjaiswal03/Drag-N-Drop
+[submodule "Drawing-App"]
+	path = Drawing-App
+	url = https://github.com/anubhavjaiswal03/Drawing-App
