@@ -73,3 +73,6 @@
 [submodule "Content-Placeholder"]
 	path = Content-Placeholder
 	url = https://github.com/anubhavjaiswal03/Content-Placeholder
+[submodule "Sticky-Navbar"]
+	path = Sticky-Navbar
+	url = https://github.com/anubhavjaiswal03/Sticky-Navbar
