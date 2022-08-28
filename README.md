@@ -31,3 +31,4 @@ You can `gitclone` them individually or `gitclone` this master repository.
 22. [Drawing App](https://github.com/anubhavjaiswal03/Drawing-App)
 23. [Kinetic CSS Loader](https://github.com/anubhavjaiswal03/Kinetic-CSS-Loader)
 24. [Content Placeholder](https://github.com/anubhavjaiswal03/Content-Placeholder)
+25. [Sticky Navbar](https://github.com/anubhavjaiswal03/Sticky-Navbar)
