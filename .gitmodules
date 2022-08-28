@@ -67,3 +67,6 @@
 [submodule "Drawing-App"]
 	path = Drawing-App
 	url = https://github.com/anubhavjaiswal03/Drawing-App
+[submodule "Kinetic-CSS-Loader"]
+	path = Kinetic-CSS-Loader
+	url = https://github.com/anubhavjaiswal03/Kinetic-CSS-Loader
