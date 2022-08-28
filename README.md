@@ -30,3 +30,4 @@ You can `gitclone` them individually or `gitclone` this master repository.
 21. [Drag N Drop](https://github.com/anubhavjaiswal03/Drag-N-Drop)
 22. [Drawing App](https://github.com/anubhavjaiswal03/Drawing-App)
 23. [Kinetic CSS Loader](https://github.com/anubhavjaiswal03/Kinetic-CSS-Loader)
+24. [Content Placeholder](https://github.com/anubhavjaiswal03/Content-Placeholder)
