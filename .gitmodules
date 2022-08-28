@@ -70,3 +70,6 @@
 [submodule "Kinetic-CSS-Loader"]
 	path = Kinetic-CSS-Loader
 	url = https://github.com/anubhavjaiswal03/Kinetic-CSS-Loader
+[submodule "Content-Placeholder"]
+	path = Content-Placeholder
+	url = https://github.com/anubhavjaiswal03/Content-Placeholder
