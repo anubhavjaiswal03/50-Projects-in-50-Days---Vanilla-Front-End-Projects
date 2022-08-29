@@ -82,3 +82,6 @@
 [submodule "Toast-Notification"]
 	path = Toast-Notification
 	url = https://github.com/anubhavjaiswal03/Toast-Notification
+[submodule "Github-Profiles"]
+	path = Github-Profiles
+	url = https://github.com/anubhavjaiswal03/Github-Profiles
