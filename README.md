@@ -33,3 +33,4 @@ You can `gitclone` them individually or `gitclone` this master repository.
 24. [Content Placeholder](https://github.com/anubhavjaiswal03/Content-Placeholder)
 25. [Sticky Navbar](https://github.com/anubhavjaiswal03/Sticky-Navbar)
 26. [Double Verticle Slider](https://github.com/anubhavjaiswal03/Double-Verticle-Slider)
+27. [Toast Notification](https://github.com/anubhavjaiswal03/Toast-Notification)
