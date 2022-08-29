@@ -88,3 +88,6 @@
 [submodule "Double-Heart-Click"]
 	path = Double-Heart-Click
 	url = https://github.com/anubhavjaiswal03/Double-Heart-Click
+[submodule "Text-Typing-Effect"]
+	path = Text-Typing-Effect
+	url = https://github.com/anubhavjaiswal03/Text-Typing-Effect
