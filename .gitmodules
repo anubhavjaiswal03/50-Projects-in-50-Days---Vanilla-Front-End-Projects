@@ -79,3 +79,6 @@
 [submodule "Double-Verticle-Slider"]
 	path = Double-Verticle-Slider
 	url = https://github.com/anubhavjaiswal03/Double-Verticle-Slider
+[submodule "Toast-Notification"]
+	path = Toast-Notification
+	url = https://github.com/anubhavjaiswal03/Toast-Notification
