@@ -36,4 +36,4 @@ You can `gitclone` them individually or `gitclone` this master repository.
 27. [Toast Notification](https://github.com/anubhavjaiswal03/Toast-Notification)
 28. [Github Profiles](https://github.com/anubhavjaiswal03/Github-Profiles)
 29. [Double Heart CLick](https://github.com/anubhavjaiswal03/Double-Heart-Click)
-30. [Auto Text Effect]()
+30. [Auto Text Effect](https://github.com/anubhavjaiswal03/Text-Typing-Effect)
