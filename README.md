@@ -32,3 +32,4 @@ You can `gitclone` them individually or `gitclone` this master repository.
 23. [Kinetic CSS Loader](https://github.com/anubhavjaiswal03/Kinetic-CSS-Loader)
 24. [Content Placeholder](https://github.com/anubhavjaiswal03/Content-Placeholder)
 25. [Sticky Navbar](https://github.com/anubhavjaiswal03/Sticky-Navbar)
+26. [Double Verticle Slider](https://github.com/anubhavjaiswal03/Double-Verticle-Slider)
