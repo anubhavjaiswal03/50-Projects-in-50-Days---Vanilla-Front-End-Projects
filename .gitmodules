@@ -85,3 +85,6 @@
 [submodule "Github-Profiles"]
 	path = Github-Profiles
 	url = https://github.com/anubhavjaiswal03/Github-Profiles
+[submodule "Double-Heart-Click"]
+	path = Double-Heart-Click
+	url = https://github.com/anubhavjaiswal03/Double-Heart-Click
