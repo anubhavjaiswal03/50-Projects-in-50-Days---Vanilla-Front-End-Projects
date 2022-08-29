@@ -76,3 +76,6 @@
 [submodule "Sticky-Navbar"]
 	path = Sticky-Navbar
 	url = https://github.com/anubhavjaiswal03/Sticky-Navbar
+[submodule "Double-Verticle-Slider"]
+	path = Double-Verticle-Slider
+	url = https://github.com/anubhavjaiswal03/Double-Verticle-Slider
