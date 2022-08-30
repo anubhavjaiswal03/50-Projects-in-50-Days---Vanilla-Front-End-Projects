@@ -112,3 +112,6 @@
 [submodule "Pokedex"]
 	path = Pokedex
 	url = https://github.com/anubhavjaiswal03/Pokedex
+[submodule "Mobile-Tab-Navigation"]
+	path = Mobile-Tab-Navigation
+	url = https://github.com/anubhavjaiswal03/Mobile-Tab-Navigation
