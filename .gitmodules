@@ -97,3 +97,6 @@
 [submodule "Custom-Checkboxes"]
 	path = Custom-Checkboxes
 	url = https://github.com/anubhavjaiswal03/Custom-Checkboxes
+[submodule "Notes-App"]
+	path = Notes-App
+	url = https://github.com/anubhavjaiswal03/Notes-App
