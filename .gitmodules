@@ -109,3 +109,6 @@
 [submodule "Hoverboard"]
 	path = Hoverboard
 	url = https://github.com/anubhavjaiswal03/Hoverboard
+[submodule "Pokedex"]
+	path = Pokedex
+	url = https://github.com/anubhavjaiswal03/Pokedex
