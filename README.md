@@ -37,3 +37,4 @@ You can `gitclone` them individually or `gitclone` this master repository.
 28. [Github Profiles](https://github.com/anubhavjaiswal03/Github-Profiles)
 29. [Double Heart CLick](https://github.com/anubhavjaiswal03/Double-Heart-Click)
 30. [Auto Text Effect](https://github.com/anubhavjaiswal03/Text-Typing-Effect)
+31. [Password Generator](https://github.com/anubhavjaiswal03/Password-Generator)
