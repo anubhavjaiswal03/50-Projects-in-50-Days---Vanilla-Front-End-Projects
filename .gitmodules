@@ -94,3 +94,6 @@
 [submodule "Password-Generator"]
 	path = Password-Generator
 	url = https://github.com/anubhavjaiswal03/Password-Generator
+[submodule "Custom-Checkboxes"]
+	path = Custom-Checkboxes
+	url = https://github.com/anubhavjaiswal03/Custom-Checkboxes
