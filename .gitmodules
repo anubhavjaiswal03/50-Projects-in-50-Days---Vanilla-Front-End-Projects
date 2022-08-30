@@ -100,3 +100,6 @@
 [submodule "Notes-App"]
 	path = Notes-App
 	url = https://github.com/anubhavjaiswal03/Notes-App
+[submodule "Animated-Countdown"]
+	path = Animated-Countdown
+	url = https://github.com/anubhavjaiswal03/Animated-Countdown
