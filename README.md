@@ -40,3 +40,4 @@ You can `gitclone` them individually or `gitclone` this master repository.
 31. [Password Generator](https://github.com/anubhavjaiswal03/Password-Generator)
 32. [Custom Checkboxes](https://github.com/anubhavjaiswal03/Custom-Checkboxes)
 33. [Notes App](https://github.com/anubhavjaiswal03/Notes-App)
+34. [Animated Countdown](https://github.com/anubhavjaiswal03/Animated-Countdown)
