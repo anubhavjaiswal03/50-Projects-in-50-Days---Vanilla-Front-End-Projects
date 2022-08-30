@@ -91,3 +91,6 @@
 [submodule "Text-Typing-Effect"]
 	path = Text-Typing-Effect
 	url = https://github.com/anubhavjaiswal03/Text-Typing-Effect
+[submodule "Password-Generator"]
+	path = Password-Generator
+	url = https://github.com/anubhavjaiswal03/Password-Generator
