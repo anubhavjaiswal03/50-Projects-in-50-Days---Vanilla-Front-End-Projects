@@ -103,3 +103,6 @@
 [submodule "Animated-Countdown"]
 	path = Animated-Countdown
 	url = https://github.com/anubhavjaiswal03/Animated-Countdown
+[submodule "Image-Carousel-UI"]
+	path = Image-Carousel-UI
+	url = https://github.com/anubhavjaiswal03/Image-Carousel-UI
