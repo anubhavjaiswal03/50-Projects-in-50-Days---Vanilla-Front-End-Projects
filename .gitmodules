@@ -106,3 +106,6 @@
 [submodule "Image-Carousel-UI"]
 	path = Image-Carousel-UI
 	url = https://github.com/anubhavjaiswal03/Image-Carousel-UI
+[submodule "Hoverboard"]
+	path = Hoverboard
+	url = https://github.com/anubhavjaiswal03/Hoverboard
