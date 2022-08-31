@@ -127,3 +127,6 @@
 [submodule "Live-User-Filter"]
 	path = Live-User-Filter
 	url = https://github.com/anubhavjaiswal03/Live-User-Filter
+[submodule "Feedback-UI-Design"]
+	path = Feedback-UI-Design
+	url = https://github.com/anubhavjaiswal03/Feedback-UI-Design
