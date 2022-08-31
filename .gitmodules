@@ -118,3 +118,6 @@
 [submodule "Password-Strength-Background"]
 	path = Password-Strength-Background
 	url = https://github.com/anubhavjaiswal03/Password-Strength-Background
+[submodule "3D-Background-Boxes"]
+	path = 3D-Background-Boxes
+	url = https://github.com/anubhavjaiswal03/3D-Background-Boxes
