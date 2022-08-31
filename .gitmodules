@@ -130,3 +130,6 @@
 [submodule "Feedback-UI-Design"]
 	path = Feedback-UI-Design
 	url = https://github.com/anubhavjaiswal03/Feedback-UI-Design
+[submodule "Custom-Range-Slider"]
+	path = Custom-Range-Slider
+	url = https://github.com/anubhavjaiswal03/Custom-Range-Slider
