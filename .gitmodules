@@ -115,3 +115,6 @@
 [submodule "Mobile-Tab-Navigation"]
 	path = Mobile-Tab-Navigation
 	url = https://github.com/anubhavjaiswal03/Mobile-Tab-Navigation
+[submodule "Password-Strength-Background"]
+	path = Password-Strength-Background
+	url = https://github.com/anubhavjaiswal03/Password-Strength-Background
