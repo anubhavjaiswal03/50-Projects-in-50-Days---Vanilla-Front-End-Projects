@@ -121,3 +121,6 @@
 [submodule "3D-Background-Boxes"]
 	path = 3D-Background-Boxes
 	url = https://github.com/anubhavjaiswal03/3D-Background-Boxes
+[submodule "Verify-Account-UI"]
+	path = Verify-Account-UI
+	url = https://github.com/anubhavjaiswal03/Verify-Account-UI
