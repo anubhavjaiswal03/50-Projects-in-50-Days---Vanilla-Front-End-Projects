@@ -45,3 +45,4 @@ You can `gitclone` them individually or `gitclone` this master repository.
 36. [Hoverboard](https://github.com/anubhavjaiswal03/Hoverboard)
 37. [Pokedex](https://github.com/anubhavjaiswal03/Pokedex)
 38. [Mobile Tab Navigation](https://github.com/anubhavjaiswal03/Mobile-Tab-Navigation)
+39. [Password Strength Background](https://github.com/anubhavjaiswal03/Password-Strength-Background)
