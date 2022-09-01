@@ -133,3 +133,6 @@
 [submodule "Custom-Range-Slider"]
 	path = Custom-Range-Slider
 	url = https://github.com/anubhavjaiswal03/Custom-Range-Slider
+[submodule "Netflix-Navigation"]
+	path = Netflix-Navigation
+	url = https://github.com/anubhavjaiswal03/Netflix-Navigation
