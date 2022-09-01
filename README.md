@@ -51,4 +51,5 @@ You can `gitclone` them individually or `gitclone` this master repository.
 42. [Live User Filter](https://github.com/anubhavjaiswal03/Live-User-Filter)
 43. [Feedback UI Design](https://github.com/anubhavjaiswal03/Feedback-UI-Design)
 44. [Custom Range Slider](https://github.com/anubhavjaiswal03/Custom-Range-Slider)
-45.
+45. [Netflix Navigation](https://github.com/anubhavjaiswal03/Netflix-Navigation)
+46. [Quiz App]()
