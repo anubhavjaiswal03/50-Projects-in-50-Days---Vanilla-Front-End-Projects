@@ -136,3 +136,6 @@
 [submodule "Netflix-Navigation"]
 	path = Netflix-Navigation
 	url = https://github.com/anubhavjaiswal03/Netflix-Navigation
+[submodule "Quiz-App"]
+	path = Quiz-App
+	url = https://github.com/anubhavjaiswal03/Quiz-App
