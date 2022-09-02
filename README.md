@@ -53,4 +53,7 @@ You can `gitclone` them individually or `gitclone` this master repository.
 44. [Custom Range Slider](https://github.com/anubhavjaiswal03/Custom-Range-Slider)
 45. [Netflix Navigation](https://github.com/anubhavjaiswal03/Netflix-Navigation)
 46. [Quiz App](https://github.com/anubhavjaiswal03/Quiz-App)
-47.
+47. [Testimonial Box Widget](https://github.com/anubhavjaiswal03/Testimonial-Box-Widget)
+48. [Random Image Feed](https://github.com/anubhavjaiswal03/Random-Image-Feed)
+49. [Todo List](https://github.com/anubhavjaiswal03/Todo-List)
+50. [Catch The Insect](https://github.com/anubhavjaiswal03/Catch-The-Insect)

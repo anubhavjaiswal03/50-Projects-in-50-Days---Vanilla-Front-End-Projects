@@ -139,3 +139,15 @@
 [submodule "Quiz-App"]
 	path = Quiz-App
 	url = https://github.com/anubhavjaiswal03/Quiz-App
+[submodule "Testimonial-Box-Widget"]
+	path = Testimonial-Box-Widget
+	url = https://github.com/anubhavjaiswal03/Testimonial-Box-Widget
+[submodule "Random-Image-Feed"]
+	path = Random-Image-Feed
+	url = https://github.com/anubhavjaiswal03/Random-Image-Feed
+[submodule "Todo-List"]
+	path = Todo-List
+	url = https://github.com/anubhavjaiswal03/Todo-List
+[submodule "Catch-The-Insect"]
+	path = Catch-The-Insect
+	url = https://github.com/anubhavjaiswal03/Catch-The-Insect
